@@ -1,0 +1,70 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Astronomy
+build_property.ProjectDir = C:\Users\USER\Downloads\mslearn-dotnetmaui-create-multi-page-apps-main\mslearn-dotnetmaui-create-multi-page-apps-main\exercise3\start\Astronomy\Astronomy\
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-create-multi-page-apps-main/mslearn-dotnetmaui-create-multi-page-apps-main/exercise3/start/Astronomy/Astronomy/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-create-multi-page-apps-main/mslearn-dotnetmaui-create-multi-page-apps-main/exercise3/start/Astronomy/Astronomy/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-create-multi-page-apps-main/mslearn-dotnetmaui-create-multi-page-apps-main/exercise3/start/Astronomy/Astronomy/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-create-multi-page-apps-main/mslearn-dotnetmaui-create-multi-page-apps-main/exercise3/start/Astronomy/Astronomy/Pages/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AboutPage.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-create-multi-page-apps-main/mslearn-dotnetmaui-create-multi-page-apps-main/exercise3/start/Astronomy/Astronomy/Pages/AstronomicalBodiesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.AstronomicalBodiesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AstronomicalBodiesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AstronomicalBodiesPage.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-create-multi-page-apps-main/mslearn-dotnetmaui-create-multi-page-apps-main/exercise3/start/Astronomy/Astronomy/Pages/AstronomicalBodyPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.AstronomicalBodyPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AstronomicalBodyPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AstronomicalBodyPage.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-create-multi-page-apps-main/mslearn-dotnetmaui-create-multi-page-apps-main/exercise3/start/Astronomy/Astronomy/Pages/MoonPhasePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.MoonPhasePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MoonPhasePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MoonPhasePage.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-create-multi-page-apps-main/mslearn-dotnetmaui-create-multi-page-apps-main/exercise3/start/Astronomy/Astronomy/Pages/SunrisePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Pages.SunrisePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SunrisePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SunrisePage.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-create-multi-page-apps-main/mslearn-dotnetmaui-create-multi-page-apps-main/exercise3/start/Astronomy/Astronomy/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Colors.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-create-multi-page-apps-main/mslearn-dotnetmaui-create-multi-page-apps-main/exercise3/start/Astronomy/Astronomy/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Astronomy.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles.xaml

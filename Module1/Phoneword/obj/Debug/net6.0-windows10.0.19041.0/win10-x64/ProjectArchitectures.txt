@@ -1,0 +1,1 @@
+C:\Users\USER\source\repos\Phoneword\Phoneword.csproj;x64

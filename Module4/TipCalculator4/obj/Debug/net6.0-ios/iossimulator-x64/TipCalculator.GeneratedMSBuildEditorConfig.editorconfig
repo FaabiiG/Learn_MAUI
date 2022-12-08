@@ -1,0 +1,46 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TipCalculator
+build_property.ProjectDir = C:\Users\USER\Downloads\mslearn-dotnetmaui-use-shared-resources-main\mslearn-dotnetmaui-use-shared-resources-main\exercise1\TipCalculator\
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-use-shared-resources-main/mslearn-dotnetmaui-use-shared-resources-main/exercise1/TipCalculator/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TipCalculator.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-use-shared-resources-main/mslearn-dotnetmaui-use-shared-resources-main/exercise1/TipCalculator/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TipCalculator.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-use-shared-resources-main/mslearn-dotnetmaui-use-shared-resources-main/exercise1/TipCalculator/CustomTipPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TipCalculator.CustomTipPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CustomTipPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CustomTipPage.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-use-shared-resources-main/mslearn-dotnetmaui-use-shared-resources-main/exercise1/TipCalculator/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TipCalculator.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Colors.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-use-shared-resources-main/mslearn-dotnetmaui-use-shared-resources-main/exercise1/TipCalculator/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TipCalculator.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles.xaml
+
+[C:/Users/USER/Downloads/mslearn-dotnetmaui-use-shared-resources-main/mslearn-dotnetmaui-use-shared-resources-main/exercise1/TipCalculator/StandardTipPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = TipCalculator.StandardTipPage.xaml
+build_metadata.AdditionalFiles.TargetPath = StandardTipPage.xaml
+build_metadata.AdditionalFiles.RelativePath = StandardTipPage.xaml
